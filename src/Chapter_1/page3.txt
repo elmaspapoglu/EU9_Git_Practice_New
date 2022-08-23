@@ -1,0 +1,4 @@
+
+Welcome to Git
+
+Its just in Intellj
